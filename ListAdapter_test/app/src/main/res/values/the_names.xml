@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListAdapter_test</string>
+
+    <string name="custom_post_follow">follow</string>
+    <string name="custom_post_followers">followers</string>
+    <string name="custom_post_following">following</string>
+    <string name="custom_post_posts">post</string>
+    <string name="custom_post_like">like</string>
+    <string name="custom_post_share">share</string>
+    <string name="custom_post_comment">comment</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListAdapter_test</string>
+    <string name="custom_post_follow">متابعه</string>
+    <string name="custom_post_followers">المتابعه</string>
+    <string name="custom_post_following">يتابع</string>
+    <string name="custom_post_posts">المنشورات</string>
+    <string name="custom_post_like">اعجاب</string>
+    <string name="custom_post_share">مشركه</string>
+    <string name="custom_post_comment">تعليق</string>
+
+</resources>
+
+
+
+    <!--
+
+    -->

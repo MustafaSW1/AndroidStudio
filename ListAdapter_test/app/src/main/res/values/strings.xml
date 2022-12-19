@@ -1,0 +1,8 @@
+<resources>
+    <string name="new_activity_name">Name</string>
+    <string name="new_activity_body">Body</string>
+    <string name="new_activity_date">date</string>
+    <string name="new_activity_followers">Followers</string>
+    <string name="new_activity_posts">Posts</string>
+    <string name="new_activity_following">Following</string>
+</resources>

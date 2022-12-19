@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BroadCast</string>
+    <string name="FirstNum">First Number </string>
+    <string name="getnumber">get result</string>
+    <string name="Add">Add</string>
+    <string name="Sub">Sub</string>
+</resources>
